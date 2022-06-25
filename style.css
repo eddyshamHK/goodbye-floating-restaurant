@@ -1,0 +1,12 @@
+body {background-color: rgba(30,30,30,1)}
+canvas {
+    padding: 0;
+    margin: auto;
+    display: block;
+   }
+
+p {
+    padding: 20px;
+    text-align: center;
+    color: white;
+   }
